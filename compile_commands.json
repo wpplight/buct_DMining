@@ -1,0 +1,80 @@
+[
+{
+  "directory": "/home/wpp/homework/dig",
+  "command": "/usr/bin/c++  -I/home/wpp/homework/dig/include -I/home/wpp/homework/dig/src -std=gnu++17 -o CMakeFiles/dig.dir/src/main.cpp.o -c /home/wpp/homework/dig/src/main.cpp",
+  "file": "/home/wpp/homework/dig/src/main.cpp",
+  "output": "CMakeFiles/dig.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/wpp/homework/dig",
+  "command": "/usr/bin/c++  -I/home/wpp/homework/dig/include -I/home/wpp/homework/dig/src -std=gnu++17 -o CMakeFiles/dig.dir/src/dataload/data_loader.cpp.o -c /home/wpp/homework/dig/src/dataload/data_loader.cpp",
+  "file": "/home/wpp/homework/dig/src/dataload/data_loader.cpp",
+  "output": "CMakeFiles/dig.dir/src/dataload/data_loader.cpp.o"
+},
+{
+  "directory": "/home/wpp/homework/dig",
+  "command": "/usr/bin/c++  -I/home/wpp/homework/dig/include -I/home/wpp/homework/dig/src -std=gnu++17 -o CMakeFiles/dig.dir/src/apriori/apr.cpp.o -c /home/wpp/homework/dig/src/apriori/apr.cpp",
+  "file": "/home/wpp/homework/dig/src/apriori/apr.cpp",
+  "output": "CMakeFiles/dig.dir/src/apriori/apr.cpp.o"
+},
+{
+  "directory": "/home/wpp/homework/dig",
+  "command": "/usr/bin/c++  -I/home/wpp/homework/dig/include -I/home/wpp/homework/dig/src -std=gnu++17 -o CMakeFiles/dig.dir/src/fptree/fp.cpp.o -c /home/wpp/homework/dig/src/fptree/fp.cpp",
+  "file": "/home/wpp/homework/dig/src/fptree/fp.cpp",
+  "output": "CMakeFiles/dig.dir/src/fptree/fp.cpp.o"
+},
+{
+  "directory": "/home/wpp/homework/dig",
+  "command": "/usr/bin/c++  -I/home/wpp/homework/dig/include -I/home/wpp/homework/dig/src -std=gnu++17 -o CMakeFiles/dig.dir/include/internal/basic_csv_parser.cpp.o -c /home/wpp/homework/dig/include/internal/basic_csv_parser.cpp",
+  "file": "/home/wpp/homework/dig/include/internal/basic_csv_parser.cpp",
+  "output": "CMakeFiles/dig.dir/include/internal/basic_csv_parser.cpp.o"
+},
+{
+  "directory": "/home/wpp/homework/dig",
+  "command": "/usr/bin/c++  -I/home/wpp/homework/dig/include -I/home/wpp/homework/dig/src -std=gnu++17 -o CMakeFiles/dig.dir/include/internal/col_names.cpp.o -c /home/wpp/homework/dig/include/internal/col_names.cpp",
+  "file": "/home/wpp/homework/dig/include/internal/col_names.cpp",
+  "output": "CMakeFiles/dig.dir/include/internal/col_names.cpp.o"
+},
+{
+  "directory": "/home/wpp/homework/dig",
+  "command": "/usr/bin/c++  -I/home/wpp/homework/dig/include -I/home/wpp/homework/dig/src -std=gnu++17 -o CMakeFiles/dig.dir/include/internal/csv_format.cpp.o -c /home/wpp/homework/dig/include/internal/csv_format.cpp",
+  "file": "/home/wpp/homework/dig/include/internal/csv_format.cpp",
+  "output": "CMakeFiles/dig.dir/include/internal/csv_format.cpp.o"
+},
+{
+  "directory": "/home/wpp/homework/dig",
+  "command": "/usr/bin/c++  -I/home/wpp/homework/dig/include -I/home/wpp/homework/dig/src -std=gnu++17 -o CMakeFiles/dig.dir/include/internal/csv_reader.cpp.o -c /home/wpp/homework/dig/include/internal/csv_reader.cpp",
+  "file": "/home/wpp/homework/dig/include/internal/csv_reader.cpp",
+  "output": "CMakeFiles/dig.dir/include/internal/csv_reader.cpp.o"
+},
+{
+  "directory": "/home/wpp/homework/dig",
+  "command": "/usr/bin/c++  -I/home/wpp/homework/dig/include -I/home/wpp/homework/dig/src -std=gnu++17 -o CMakeFiles/dig.dir/include/internal/csv_reader_iterator.cpp.o -c /home/wpp/homework/dig/include/internal/csv_reader_iterator.cpp",
+  "file": "/home/wpp/homework/dig/include/internal/csv_reader_iterator.cpp",
+  "output": "CMakeFiles/dig.dir/include/internal/csv_reader_iterator.cpp.o"
+},
+{
+  "directory": "/home/wpp/homework/dig",
+  "command": "/usr/bin/c++  -I/home/wpp/homework/dig/include -I/home/wpp/homework/dig/src -std=gnu++17 -o CMakeFiles/dig.dir/include/internal/csv_row.cpp.o -c /home/wpp/homework/dig/include/internal/csv_row.cpp",
+  "file": "/home/wpp/homework/dig/include/internal/csv_row.cpp",
+  "output": "CMakeFiles/dig.dir/include/internal/csv_row.cpp.o"
+},
+{
+  "directory": "/home/wpp/homework/dig",
+  "command": "/usr/bin/c++  -I/home/wpp/homework/dig/include -I/home/wpp/homework/dig/src -std=gnu++17 -o CMakeFiles/dig.dir/include/internal/csv_row_json.cpp.o -c /home/wpp/homework/dig/include/internal/csv_row_json.cpp",
+  "file": "/home/wpp/homework/dig/include/internal/csv_row_json.cpp",
+  "output": "CMakeFiles/dig.dir/include/internal/csv_row_json.cpp.o"
+},
+{
+  "directory": "/home/wpp/homework/dig",
+  "command": "/usr/bin/c++  -I/home/wpp/homework/dig/include -I/home/wpp/homework/dig/src -std=gnu++17 -o CMakeFiles/dig.dir/include/internal/csv_stat.cpp.o -c /home/wpp/homework/dig/include/internal/csv_stat.cpp",
+  "file": "/home/wpp/homework/dig/include/internal/csv_stat.cpp",
+  "output": "CMakeFiles/dig.dir/include/internal/csv_stat.cpp.o"
+},
+{
+  "directory": "/home/wpp/homework/dig",
+  "command": "/usr/bin/c++  -I/home/wpp/homework/dig/include -I/home/wpp/homework/dig/src -std=gnu++17 -o CMakeFiles/dig.dir/include/internal/csv_utility.cpp.o -c /home/wpp/homework/dig/include/internal/csv_utility.cpp",
+  "file": "/home/wpp/homework/dig/include/internal/csv_utility.cpp",
+  "output": "CMakeFiles/dig.dir/include/internal/csv_utility.cpp.o"
+}
+]
