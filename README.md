@@ -53,7 +53,30 @@ buct_DMining/
 
 ## 构建方法
 
-### 1. 使用 CMake 构建（推荐）
+### 1. 使用 Makefile（推荐，最简单）
+
+项目提供了便捷的 Makefile，包含以下命令：
+
+```bash
+# 初始化构建环境（首次使用或清理后）
+make init
+
+# 编译并运行程序
+make run
+
+# 清理构建文件
+make clean
+
+# 查看帮助信息
+make help
+```
+
+**使用流程**：
+1. 首次使用：运行 `make init` 创建 build 目录并配置 CMake
+2. 运行程序：直接运行 `make run`，会自动编译并执行
+3. 清理：运行 `make clean` 删除 build 目录
+
+### 2. 使用 CMake 手动构建
 
 ```bash
 # 创建构建目录
@@ -70,13 +93,7 @@ make
 cmake --build .
 ```
 
-### 2. 使用 Makefile 构建
-
-```bash
-make
-```
-
-编译完成后，可执行文件位于 `build/dig` 或项目根目录的 `dig`。
+编译完成后，可执行文件位于 `build/dig`。
 
 ## 使用方法
 
